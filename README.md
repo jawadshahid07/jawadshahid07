@@ -2,22 +2,22 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:jawad.shahid70@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="mailto:jawad.shahid70@outlook.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/jawadshahid07">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://github.com/jawadshahid07" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jawad07">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="https://www.linkedin.com/in/jawad07" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://your-portfolio.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"/> 
+  <a href="https://your-portfolio.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> 
   </a> 
   
-  <a href="https://jawadify.xyz"> 
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank"/> 
+  <a href="https://jawadify.xyz" target="_blank"> 
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /> 
   </a>
 </p>
 
